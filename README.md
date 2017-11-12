@@ -4,7 +4,7 @@ With advances in gpu, it has become possible to train neural nets with increasin
 
 There are two broad approaches I imagine:
  - Continuing to represent the NN digitally, but changing the way the calculations are done
- - Representing the NN as an analog circuit
+ - Representing the NN as an analog circuit, this is Physical Neural Net (PNN)
 
 ## Initial model
 
