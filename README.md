@@ -8,9 +8,9 @@ There are two broad approaches I imagine:
 
 ## Initial model
 
-My initial interest involves a circuit with an array of digital potentiometers, each representing the weight between a neuron in one layer, and the neurons in the next layer. In this way, the net's weights would be controlled digitally, but would be evaluated at the speed it takes charge to propegate through the potentiometers, which afaik should be much faster than corrisponding digital calculations.
+My initial interest involves a circuit with an array of digital potentiometers, each representing the weight between a neuron in one layer, and the neurons in the next layer. In this way, the net's weights would be controlled digitally, but would be evaluated at the speed it takes charge to propagate through the potentiometers, which afaik should be much faster than corrisponding digital calculations.
 
-I'm also interested in designing a way to do back propegation training in novel ways in the circuitry, which would require the controlling computer be able to read, as well as write to the neuron weights, otherwise the back propegation would need to pass through the digital computer, which is potentially a bottleneck. Of course at this point this is very fuzzy conceptualization.
+I'm also interested in designing a way to do back propagation training in novel ways in the circuitry, which would require the controlling computer be able to read, as well as write to the neuron weights, otherwise the back propagation would need to pass through the digital computer, which is potentially a bottleneck. Of course at this point this is very fuzzy conceptualization.
 
 ## Questions & concerns
 
